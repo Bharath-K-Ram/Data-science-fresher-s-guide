@@ -2,7 +2,8 @@
 
 - [ ] Linear Algebra
 - [ ] Calculus
-- [ ] Probability Theory and Statistics
+- [ ] Probability Theory
+- [ ] Statistics
 - [ ] Optimization
 
 ### 2. Programming:
@@ -29,7 +30,6 @@
 - [ ] Matplotlib
 - [ ] Seaborn
 - [ ] Plotly
-- [ ] D3.js
 
 ### 5. Big Data Technologies:
 
